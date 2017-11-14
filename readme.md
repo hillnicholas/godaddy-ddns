@@ -1,5 +1,6 @@
 ddns_update.py
-Written by Nicholas Hill <njhill@mix.wvu.
+Written by Nicholas Hill <njhill@mix.wvu>.
+
 This script uses GoDaddys API to change the A DNS record to point to the current machine.
 This script was made to be placed into the crontab to allow dnyamic DNS functionality through GoDaddy.
 
